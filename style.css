@@ -4,12 +4,12 @@
 }
 
 
-.upper_part{
+.upper{
     border:1px solid black;
   margin-left:30px;
 }
 
-.end_part{
+.end{
 width: 1623px;
 height: 469px;
 
@@ -17,7 +17,7 @@ height: 469px;
 
 }
 
-strong{
+span{
     font-style: italic;
 }
 
@@ -31,8 +31,7 @@ img{
     width: 1051px;
     height: 894px;
     top: 742px;
-   
-   
+
 }
 
 a{
