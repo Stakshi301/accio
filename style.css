@@ -1,0 +1,44 @@
+*{
+margin: 10px;
+padding: 10px;
+}
+
+
+.upper_part{
+width: 1540.51px;
+height: 613.54px;
+top: 94.46px;
+left: 89px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.end_part{
+width: 1623px;
+height: 469px;
+top: 1795px;
+left: 58px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+strong{
+    font-style: italic;
+}
+
+.head h1{
+    text-decoration: underline;
+}
+
+img{
+    width: 1051px;
+    height: 894px;
+    top: 742px;
+    left: 58px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
